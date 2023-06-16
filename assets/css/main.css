@@ -3610,10 +3610,16 @@ table .product-thumbnail img {
 
 .product-cart-wrap .product-content-wrap .product-price span {
   font-size: 18px;
-  font-weight: bold;
-  color: #F15412;
+  color: black ;
+}
+.banner-features {
+  text-align: center;
 }
 
+.banner-features img {
+  max-width: 100%;
+  height: auto;
+}
 .product-cart-wrap .product-content-wrap .product-price span.new-price {
   color: #F15412;
 }
