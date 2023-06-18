@@ -3559,7 +3559,8 @@ table .product-thumbnail img {
 }
 
 .product-cart-wrap .product-badges span.hot {
-  background-color: #ff75a0;
+  background-color: red;
+  margin-left: -15px;
 }
 
 .product-cart-wrap .product-badges span.new {
@@ -3625,6 +3626,13 @@ table .product-thumbnail img {
 }
 
 .product-cart-wrap .product-content-wrap .product-price span.old-price {
+  font-size: 14px;
+  font-weight: 400;
+  color: #90908e;
+  margin: 0 0 0 7px;
+  text-decoration: line-through;
+}
+span.old-price{
   font-size: 14px;
   font-weight: 400;
   color: #90908e;
@@ -6418,7 +6426,7 @@ h6.post-title {
 .header-style-1 .header-top-ptb-1 {
   padding: 13px 0;
   border-bottom: 3px solid #39b4ac;
-  background-color: #d8f4e2;
+  background-color: #29c32d;
   background-image: none;
 }
 
@@ -9902,7 +9910,7 @@ span.fi-rs-apps {
 .header-style-1 .header-top-ptb-1 {
 	padding: 13px 0;
 	border-bottom: 1px solid #737975;
-	background-color: #f4f4d8;
+	background-color: #29c32d;
 	background-image: none;
 }
 
